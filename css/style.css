@@ -21,3 +21,29 @@
 .text-primary {
     color: #c79d75 !important;
 }
+
+.timeline > li .timeline-image {
+    background-color: #A1774F;
+
+}
+
+
+.description{
+    height:100px;
+}
+
+.info_kontakt{
+    color:white !important;
+}
+
+.float_left{
+    text-align:left;
+    padding-left: 10%;
+}
+
+a{
+    color:#90643a;
+}
+a:hover{
+    color:#90643a;
+}
