@@ -1,0 +1,23 @@
+#mainNav .navbar-brand {
+    color: white;
+    font-family: 'Kaushan Script',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #c79d75;
+}
+
+.btn-primary{
+    background:#a97d54;
+    border-color:#a97d54;
+}
+
+.btn-primary:hover {
+    background:#90643a !important;
+    border-color:#a97d54 !important;
+    color: white;
+}
+
+.text-primary {
+    color: #c79d75 !important;
+}
