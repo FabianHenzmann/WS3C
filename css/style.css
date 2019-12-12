@@ -22,6 +22,15 @@
     color: #c79d75 !important;
 }
 
+.referenz_picture{
+    height: 250px;
+    width: 350px;
+}
+
+.referenz_modal{
+    height: 300px;
+}
+
 .timeline > li .timeline-image {
     background-color: #A1774F;
 
