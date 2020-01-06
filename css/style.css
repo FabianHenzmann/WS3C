@@ -60,3 +60,12 @@ a{
 a:hover{
     color:#90643a;
 }
+
+a.tel{
+    color: #6c757d;
+    text-decoration: underline;
+}
+
+a.tel:hover{
+    text-decoration: underline;
+}
