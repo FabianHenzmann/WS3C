@@ -73,3 +73,14 @@ a.tel{
 a.tel:hover{
     text-decoration: underline;
 }
+
+
+@media only screen and (max-width: 400px) {
+    .adresse{
+        margin-left:12%;
+    }
+    .privacy_policy{
+        float: left;
+        margin-left: -100px;
+    }
+}
