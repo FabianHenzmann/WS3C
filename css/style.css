@@ -75,7 +75,7 @@ a.tel:hover{
 }
 
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 750px) {
     .adresse{
         margin-left:12%;
     }
