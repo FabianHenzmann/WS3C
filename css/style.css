@@ -7,6 +7,9 @@
     color: #c79d75;
 }
 
+#mainNav .navbar-toggler {
+    background-color:#a97d54;
+}
 .btn-primary{
     background:#a97d54;
     border-color:#a97d54;
