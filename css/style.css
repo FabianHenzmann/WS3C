@@ -14,6 +14,10 @@
     background:#a97d54;
     border-color:#a97d54;
 }
+.btn-primary:visited, .btn-primary:link{
+    background:#a97d54 !important;
+    border-color:#a97d54 !important;
+}
 
 .btn-primary:hover {
     background:#90643a !important;
