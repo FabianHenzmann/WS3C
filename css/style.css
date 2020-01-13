@@ -19,6 +19,13 @@
     border-color:#a97d54 !important;
 }
 
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+    background:#a97d54 !important;
+    border-color:#a97d54 !important;
+    color: white;
+    box-shadow: none !important;
+}
+
 .btn-primary:hover {
     background:#90643a !important;
     border-color:#a97d54 !important;
@@ -67,6 +74,10 @@ a{
 }
 a:hover{
     color:#90643a;
+}
+ul.social-buttons li a:hover {
+    background:#90643a;
+    color:white;
 }
 
 a.tel{
