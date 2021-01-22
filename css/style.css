@@ -1,0 +1,101 @@
+#mainNav .navbar-brand {
+    color: white;
+    font-family: 'Kaushan Script',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #c79d75;
+}
+
+#mainNav .navbar-toggler {
+    background-color:#a97d54;
+}
+.btn-primary{
+    background:#a97d54;
+    border-color:#a97d54;
+}
+.btn-primary:visited, .btn-primary:link{
+    background:#a97d54 !important;
+    border-color:#a97d54 !important;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+    background:#a97d54 !important;
+    border-color:#a97d54 !important;
+    color: white;
+    box-shadow: none !important;
+}
+
+.btn-primary:hover {
+    background:#90643a !important;
+    border-color:#a97d54 !important;
+    color: white;
+}
+
+.text-primary {
+    color: #c79d75 !important;
+}
+
+.referenz_picture{
+    height: 250px;
+    width: 350px;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+    background: #c79d75;
+}
+
+.referenz_modal{
+    height: 300px;
+}
+
+.timeline > li .timeline-image {
+    background-color: #A1774F;
+
+}
+
+
+.description{
+    height:100px;
+}
+
+.info_kontakt{
+    color:white !important;
+}
+
+.float_left{
+    text-align:left;
+    padding-left: 10%;
+}
+
+
+a{
+    color:#90643a;
+}
+a:hover{
+    color:#90643a;
+}
+ul.social-buttons li a:hover {
+    background:#90643a;
+    color:white;
+}
+
+a.tel{
+    color: #6c757d;
+    text-decoration: underline;
+}
+
+a.tel:hover{
+    text-decoration: underline;
+}
+
+
+@media only screen and (max-width: 750px) {
+    .adresse{
+        margin-left:12%;
+    }
+    .privacy_policy{
+        float: left;
+        margin-left: -100px;
+    }
+}
